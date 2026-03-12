@@ -1,8 +1,6 @@
 # Hey guys, what's up? This is Mycael speaking.
 
-🎓 Computer Science student
-
-📍 Brazil
+I'm a CS student and I'm ready to learn everything there is to know about the world of technology. I really enjoy programming in Lua and Python.
 
 ## 🚀 What I'm currently learning
 
