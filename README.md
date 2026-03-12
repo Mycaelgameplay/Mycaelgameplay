@@ -1,6 +1,7 @@
 # Hey guys, what's up? This is Mycael speaking.
 
 🎓 Computer Science student
+
 📍 Brazil
 
 ## 🚀 What I'm currently learning
