@@ -7,6 +7,8 @@ I'm a CS student and I'm ready to learn everything there is to know about the wo
 * HTML
 * JavaScript
 * Python
+* Lua
+* C++
 
 ## 🧠 Interests
 
