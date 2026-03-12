@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey guys, what's up? This is Mycael speaking.
 
-<!--
-**Mycaelgameplay/Mycaelgameplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student
+📍 Brazil
 
-Here are some ideas to get you started:
+## 🚀 What I'm currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* JavaScript
+* Python
+
+## 🧠 Interests
+
+* Programming
+* Artificial Intelligence
+* Game Development
+* Technology
+
+## 📚 Projects
+
+I will be posting my projects here soon.
+
+---
+
+"The journey of a thousand programs begins with a Hello World."
